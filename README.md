@@ -1,16 +1,24 @@
-# hci
+دوائك لبيتك 
+-
 
-A new Flutter project.
+تطبيق "دوائك لبيتك" هو تطبيق Flutter يهدف الى تسهيل الوصول الى الاطباء واغراض الصيدلية وامكانيه شراء الأدوية عبر الانترنت 
 
-## Getting Started
+الميزات
+-
+1- تسجيل الدخول والتسجيل : يمكن للمستخدمين تسجيل الدخول او انشاء حساب جديد بستخدام البريد الالكتروني وكلمة المرور
+2- عرض الاطباء والصيدلانيين : يمكن للمستخدمين تصفح قائمة الاطباء والصيدلانيين المتاحين
+3- السلة : اضافة الادويه الى السلة مع خيار ادخال المةقع لاتمام الطلب
+4- استشارات طبية: امكانيه ارسال استشارات طبية للاطباء المتاحين
+5- الاعدادات : اعدادات الحساب والسجل الصحي وامكانيه حذف الحساب
 
-This project is a starting point for a Flutter application.
+المتطلبات 
+-
+تثبيت الFlutter 
 
-A few resources to get you started if this is your first Flutter project:
+كيفية التشغيل
+-
+1- قم بتنزيل المشروع ثم افتحه في الAndroid Studio او اي بيئه تطوير تدعم ال Flutter
+2- تأكد من انك قد قمت بتثبيت flutter و Dart
+3-شغل التطبيق على المحاكي او جهازك او على الweb
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
