@@ -1,24 +1,16 @@
-#دوائك لبيتك 
--
+# Your Medicine to your Home
+"Your Medicine to Your Home " is a Flutter designed to simplify access to doctors and pharmacy items, with the ability to purchase medicines online.
+## Features
+1. **Login and Registrations**: Users can log in or create a new account using their email and password.
+2. **Browse Doctors and Pharmacitsts**: Users can explore a list of available doctors and pharmacisrs.
+3. **Shopping Cart**: Add medicines to the cart with the option to enter the location for order completion.
+4. **Medical Consultations**: Send medical inquiries to available doctors.
+5. **Settings**: Manage acount settings , view health records, and delete the account if needed.
 
-تطبيق "دوائك لبيتك" هو تطبيق Flutter يهدف الى تسهيل الوصول الى الاطباء واغراض الصيدلية وامكانيه شراء الأدوية عبر الانترنت 
+## Requirements
+- Install **Flutter** and **Dart**.
 
-##الميزات
--
-1- تسجيل الدخول والتسجيل : يمكن للمستخدمين تسجيل الدخول او انشاء حساب جديد بستخدام البريد الالكتروني وكلمة المرور
-2- عرض الاطباء والصيدلانيين : يمكن للمستخدمين تصفح قائمة الاطباء والصيدلانيين المتاحين
-3- السلة : اضافة الادويه الى السلة مع خيار ادخال المةقع لاتمام الطلب
-4- استشارات طبية: امكانيه ارسال استشارات طبية للاطباء المتاحين
-5- الاعدادات : اعدادات الحساب والسجل الصحي وامكانيه حذف الحساب
-
-##المتطلبات 
--
-تثبيت الFlutter 
-
-##كيفية التشغيل
--
-1- قم بتنزيل المشروع ثم افتحه في الAndroid Studio او اي بيئه تطوير تدعم ال Flutter
-2- تأكد من انك قد قمت بتثبيت flutter و Dart
-3-شغل التطبيق على المحاكي او جهازك او على الweb
-
-
+## How to Run
+1. Download the project and open it in **Android Studio** on ant IDE that support **Flutter**.
+2. Ensure you have installed **Flutter** and **Dart**.
+3. Run the app on an emulator , physical device , or via **web**.
